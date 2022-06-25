@@ -1,4 +1,4 @@
-# APS-Modelagem-Preditiva-Insper
-**Autores:** Arthur Wachslicht, Gabriel Moritz, Rodrigo Nobel e Pedro Osorio.
+# APS-Predictive-Modeling-Insper
+**Authors:** Arthur Wachslicht, Gabriel Moritz, Rodrigo Nobel e Pedro Osorio.
 
-Trabalho final desenvolvido para a disciplina de Modelagem Preditiva do Insper. O trabalho consiste em uma explicação detalhada e implementação de alguns algoritmos de inteligência artificial (Árvores de Regressão, Árvores de Classificação, Regressão Linear Múltipla, K-NN, Regressão Logística, Boosting, Random Forest etc) 
+Final project developed for the Predictive Modeling class at Insper. The work consists of a detailed explanation and implementation of a few artificial intelligence algorithms (Regression Trees, Decision Tree's for binary classification, Multiple Linear Regression, K-NN, Logistical Regression, Boosting, Random Forest etc). 
